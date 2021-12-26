@@ -1,0 +1,9 @@
+---------------------------------------------------------
+Found 1 CUDA devices
+Device 0: NVIDIA GeForce RTX 3070
+   SMs:        46
+   Global mem: 7960 MB
+   CUDA Cap:   8.6
+---------------------------------------------------------
+GPU_time: 0.123 ms
+Scan outputs are correct!

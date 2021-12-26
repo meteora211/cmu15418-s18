@@ -1,0 +1,25 @@
+Rendering to 1000x1000 image
+Loaded data for 100000 circles from snow.par
+Loaded scene with 100000 circles
+Loaded data for 100000 circles from snow.par
+Loaded scene with 100000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: NVIDIA GeForce RTX 3070
+   SMs:        46
+   Global mem: 7960 MB
+   CUDA Cap:   8.6
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+
+Running benchmark, 1 frames, beginning at frame 0 ...
+Copying image data from device
+Mismatch detected at pixel [381][708], value = 0.712269, expected 0.824716 for color Red
+Mismatch detected at pixel [381][708], value = 0.735610, expected 0.846931 for color Green
+Mismatch detected at pixel [381][708], value = 0.767797, expected 0.879111 for color Blue
+Mismatch detected at pixel [435][767], value = 0.726136, expected 0.831620 for color Red
+Mismatch detected at pixel [435][769], value = 0.711134, expected 0.826403 for color Red
+Mismatch detected at pixel [435][769], value = 0.745187, expected 0.856027 for color Green
+ERROR : Mismatch detected between reference and actual

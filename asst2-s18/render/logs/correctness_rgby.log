@@ -1,0 +1,23 @@
+Rendering to 1000x1000 image
+Loaded scene with 4 circles
+Loaded scene with 4 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: NVIDIA GeForce RTX 3070
+   SMs:        46
+   Global mem: 7960 MB
+   CUDA Cap:   8.6
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+
+Running benchmark, 1 frames, beginning at frame 0 ...
+Copying image data from device
+Mismatch detected at pixel [100][190], value = 0.500000, expected 0.750000 for color Green
+Mismatch detected at pixel [100][191], value = 0.500000, expected 0.750000 for color Green
+Mismatch detected at pixel [100][192], value = 0.500000, expected 0.750000 for color Green
+Mismatch detected at pixel [100][193], value = 0.500000, expected 0.750000 for color Green
+Mismatch detected at pixel [100][194], value = 0.500000, expected 0.750000 for color Green
+Mismatch detected at pixel [100][195], value = 0.500000, expected 0.750000 for color Green
+ERROR : Mismatch detected between reference and actual
